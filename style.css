@@ -1,0 +1,45 @@
+*{
+    background-color:black;
+}
+
+body{
+    font-family: "roboto", sans-serif;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+    border-radius: 25px;
+}
+h1,h2,h3,p,small,li,label,input,option,select,form,a{
+    color: white;
+    padding: 10px;
+}
+
+h1,form{
+    margin-left: 300px;
+}
+button,ul,a{
+    background-color:rgb(17, 103, 225) ;
+    padding: 10px;
+    border-radius: 25px;
+    width: 450px;
+}
+
+a{
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+form{
+     border: 2px solid rgb(17, 103, 225); 
+     border-radius: 25px;
+     padding: 20px 20px 20px 20px;
+     width: 800px;
+}
+
+
+footer{
+    margin: 25px;
+    padding: 10px;
+}
